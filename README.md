@@ -85,4 +85,5 @@ Learnt a lot of concepts building this project. Such as:
 
 ## Image/Video Demo
 
-![WID Learn Desktop Design](Assets/desktop-design1.png)
+![WID Learn Desktop Design](<img width="1832" height="958" alt="Screenshot 2026-07-13 223618" src="https://github.com/user-attachments/assets/9476a8bd-83a1-4c0a-a0d6-5ba047b2c2f2" />
+)

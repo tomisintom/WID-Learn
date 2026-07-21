@@ -54,7 +54,6 @@ wid-learn/
 └─ vite.config.js
 ```
 
-<br>
 
 ## Challenges
 
